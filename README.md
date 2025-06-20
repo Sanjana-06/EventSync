@@ -13,17 +13,6 @@
 - 🔧 Cross-origin enabled (CORS) for frontend-backend interaction
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- Node.js & npm
-- Redis
-- Expo Go app (on your phone)
-
----
 # 🚀 Running Setup Guide for EventSync
 
 This guide explains how to set up and run both the **backend (Flask + Redis)** and the **frontend (React Native using Expo)** for the EventSync project.
